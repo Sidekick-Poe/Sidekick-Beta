@@ -1725,17 +1725,6 @@
         },
         "runtime": {
           "Sidekick.Modules.About.dll": {}
-        },
-        "resources": {
-          "de/Sidekick.Modules.About.resources.dll": {
-            "locale": "de"
-          },
-          "fr/Sidekick.Modules.About.resources.dll": {
-            "locale": "fr"
-          },
-          "zh-tw/Sidekick.Modules.About.resources.dll": {
-            "locale": "zh-tw"
-          }
         }
       },
       "Sidekick.Modules.Chat/2.10.1": {
@@ -1795,17 +1784,6 @@
         },
         "runtime": {
           "Sidekick.Modules.Settings.dll": {}
-        },
-        "resources": {
-          "de/Sidekick.Modules.Settings.resources.dll": {
-            "locale": "de"
-          },
-          "fr/Sidekick.Modules.Settings.resources.dll": {
-            "locale": "fr"
-          },
-          "zh-tw/Sidekick.Modules.Settings.resources.dll": {
-            "locale": "zh-tw"
-          }
         }
       },
       "Sidekick.Modules.Trade/2.10.1": {
@@ -1818,17 +1796,6 @@
         },
         "runtime": {
           "Sidekick.Modules.Trade.dll": {}
-        },
-        "resources": {
-          "de/Sidekick.Modules.Trade.resources.dll": {
-            "locale": "de"
-          },
-          "fr/Sidekick.Modules.Trade.resources.dll": {
-            "locale": "fr"
-          },
-          "zh-tw/Sidekick.Modules.Trade.resources.dll": {
-            "locale": "zh-tw"
-          }
         }
       }
     }
