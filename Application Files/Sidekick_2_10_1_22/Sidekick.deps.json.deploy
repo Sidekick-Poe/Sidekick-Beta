@@ -1628,11 +1628,6 @@
         },
         "runtime": {
           "Sidekick.Apis.Poe.dll": {}
-        },
-        "resources": {
-          "zh-tw/Sidekick.Apis.Poe.resources.dll": {
-            "locale": "zh-tw"
-          }
         }
       },
       "Sidekick.Apis.PoeNinja/2.10.1": {
