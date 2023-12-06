@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Sidekick.exe" version="3.0.0.103" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="Sidekick.exe" version="3.0.0.104" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="favicon.ico" xmlns="urn:schemas-microsoft-com:asm.v1">A Path of Exile companion tool.</description>
   <application />
   <entryPoint>
@@ -2205,15 +2205,6 @@
       <dsig:DigestValue>FqzrHGjDybodqf7jFf3dQYi4zNURE5BupbEoaK+Rz0w=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Properties\launchSettings.json" size="222">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>eelyGZ10HRl22AYgpclWhH9kIqjR2m/H7nrKys/emh8=</dsig:DigestValue>
-    </hash>
-  </file>
   <file name="pt-BR\Microsoft.VisualBasic.Forms.resources.dll" size="25872">
     <hash>
       <dsig:Transforms>
@@ -2571,7 +2562,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>2u1OOLLBGAoENUhCzcDOMUUKXRpT8/o2GHO7Fbavu8Q=</dsig:DigestValue>
+      <dsig:DigestValue>hueGZo9ajuaJYilIkmxM+wOSGNVlyX116SHCDI30ZOU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sidekick.Apis.Poe.dll" size="217600">
@@ -2580,7 +2571,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>1951RimyVY3JlD83V1sszy+pvFYGMbgz79uL1HcA9IM=</dsig:DigestValue>
+      <dsig:DigestValue>Y6rYhqdF23Ozmv6BlnhuE50B6jgUx9vscpnYeYYADkA=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sidekick.Apis.PoeNinja.dll" size="44544">
@@ -2589,7 +2580,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>O7xZEpoQ2Rht8oZgRhlmcms6HTn6yKnHTLWZRnFkqJk=</dsig:DigestValue>
+      <dsig:DigestValue>GaJ8tQXqY310amRI9ejXrZJhVEzsuLsRxKuLMFVbVAw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sidekick.Apis.PoePriceInfo.dll" size="13824">
@@ -2598,7 +2589,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>CmO/Y2ZPn8TlZFbxYYAftFpQw7wMUWsp0b7rKRVlb9A=</dsig:DigestValue>
+      <dsig:DigestValue>hNOvzEO/3nusYteai6F+BdFg6m478+Xwg2Q/7/OUB68=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sidekick.Apis.PoeWiki.dll" size="40448">
@@ -2607,7 +2598,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>BH5g8RovvlzcHJIYOGwvCTV5OocmibqoTShws5hAdl4=</dsig:DigestValue>
+      <dsig:DigestValue>RG7bzPqVAJzEyvxkfGoeV2d80KbsbtAY/0Il3ZrWuqc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sidekick.Common.Blazor.dll" size="83456">
@@ -2616,7 +2607,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>0bQVIxN6bfc0Txmp06w2dr74HdCZhtJEJIS5Kh4QFtc=</dsig:DigestValue>
+      <dsig:DigestValue>6DOu2NZHBhUEjnpBwTeQ1+koGwaowXcOUxhFz9hhChI=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sidekick.Common.dll" size="116224">
@@ -2625,7 +2616,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>WVKX6yD+jqMgJEzY/r95G2yhDCKENKHG0/N03kREFss=</dsig:DigestValue>
+      <dsig:DigestValue>rMmyuAcgw08uhMQnm/lkRbTw2tObAvJT13/8lIESyQs=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sidekick.Common.Platform.dll" size="41984">
@@ -2634,7 +2625,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>/fTMuYMAa6Hg2bBFKtnti4qGpY5+YHVn9rbRbsJv47Y=</dsig:DigestValue>
+      <dsig:DigestValue>RKHigiWQS+H1dTjqc2P1qo4khVL1YDi8i1Fnoq9tkl4=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sidekick.deps.json" size="106129">
@@ -2652,7 +2643,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>2xVft7sGCp73+dmiOFP7hHC6rulF8EgIZuX1mwCPaB4=</dsig:DigestValue>
+      <dsig:DigestValue>NYMsOuOAwKgEBybqHy5jWn6K4GElxtweKXdNg0FwyKY=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sidekick.exe" size="169984">
@@ -2661,7 +2652,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>QJHMtaG+5sWU4qtDsTd6+7eTtkBj1ak3gh4QMKEWE6A=</dsig:DigestValue>
+      <dsig:DigestValue>c1+yoAHNCi1WuZFywfO7kXsHY51XwAOincHqHoK4p0Q=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sidekick.Mock.dll" size="7680">
@@ -2670,7 +2661,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>9WdTzw6ps4j07cwE2mb0+oNRTUWDcwwRvQ+G6KAOQvI=</dsig:DigestValue>
+      <dsig:DigestValue>g5JAL3sGpQjje0Xtg28x1ZRCLWUKTEyNEAcOPiNtLZw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sidekick.Modules.About.dll" size="19968">
@@ -2679,7 +2670,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>dwvsSEDgpjY5CwwoTujbF6UGgPJb+vdcl0IChzlTonk=</dsig:DigestValue>
+      <dsig:DigestValue>AK8m6njLkEwUUinSovhuBAjp46r0ez12ACYRrhpBH3s=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sidekick.Modules.Chat.dll" size="9216">
@@ -2688,7 +2679,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>sL/t2hYukAISr7FhrorrHRic95TzGQHqR3CoXAYj8qc=</dsig:DigestValue>
+      <dsig:DigestValue>S8HvHzv0LZJmAoVdTLKtrDJA280sMEl7sLQvW8YygIw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sidekick.Modules.Cheatsheets.dll" size="12288">
@@ -2697,7 +2688,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>TkU3jqFRcGdl1oeyTllZ+uISs57TtEuEvyqTdF8grcc=</dsig:DigestValue>
+      <dsig:DigestValue>QDNIXZsf/e2A2VAjUgYEr5akvdJSPqz16fivInYEoWk=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sidekick.Modules.Development.dll" size="23552">
@@ -2706,7 +2697,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>htQMkyRGMWgjxJgvdsKjryr0pJfRnqOBUie3e9i3u5I=</dsig:DigestValue>
+      <dsig:DigestValue>DNIs5mXG7Z2LklIIclRHGLH59S+TDTBh7LChdbMf1Kw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sidekick.Modules.General.dll" size="10752">
@@ -2715,7 +2706,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ReYAsPrk2Hj6pry6XmJQ86eBYAqbwwg1QDsmmBJrnFw=</dsig:DigestValue>
+      <dsig:DigestValue>NufwyqV/9DXLq4HxB/nQV4dZKd9CjBgQKStyLkmiZ4o=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sidekick.Modules.Maps.dll" size="23040">
@@ -2724,7 +2715,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>KHmufqEG73SSC+rBQvE7jD7U1/u5LZ9Sn448OkPGZKE=</dsig:DigestValue>
+      <dsig:DigestValue>5FT76j+Tsvdt4K4oi77iUAXTeQk8VDcceWC+oM5c/1c=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sidekick.Modules.Settings.dll" size="86528">
@@ -2733,7 +2724,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>AGcXSlLjSQ6cnGHc7z0PELT/u4AE7mTKhmgOAKP1nSw=</dsig:DigestValue>
+      <dsig:DigestValue>6GzO/gTumTRJPfXtUYQL3XS7zfYMKH3RBkO1YfC07zM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sidekick.Modules.Trade.dll" size="116224">
@@ -2742,7 +2733,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>6Pires54Q6mhwEY+7LhtmAfa0+5xUgv81ESRDVoEIKw=</dsig:DigestValue>
+      <dsig:DigestValue>2D0l0DuttMx8F1v2BuUc0eFP/q68gXiaBKsobr/JXKI=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sidekick.Modules.Wealth.dll" size="109568">
@@ -2751,7 +2742,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>LTxJEYWEOcw5karcwiOtNSXLeMnBPgycT8jFgKFY8SY=</dsig:DigestValue>
+      <dsig:DigestValue>MAQJwl084oBQnSJ4uvBYFA+DVA0bOr8AjLnGEC48dEk=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sidekick.runtimeconfig.json" size="451">
