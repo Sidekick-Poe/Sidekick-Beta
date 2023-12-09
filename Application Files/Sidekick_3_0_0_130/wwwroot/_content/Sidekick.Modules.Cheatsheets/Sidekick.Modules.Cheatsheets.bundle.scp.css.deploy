@@ -1,8 +1,0 @@
-/* _content/Sidekick.Modules.Cheatsheets/Cheatsheets.razor.rz.scp.css */
-div[b-s2cwy6khi2] {
-    overflow: hidden;
-}
-
-iframe[b-s2cwy6khi2] {
-    height: calc(100vh - var(--mud-appbar-height) - 8px);
-}
